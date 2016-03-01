@@ -6,4 +6,6 @@
  * Time: 16:50
  */
 
+echo '<center>PHP is the best language</center><br>';
+
 phpinfo();
