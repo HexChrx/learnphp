@@ -6,6 +6,8 @@
  * Time: 16:50
  */
 
-echo '<h2 align="center">PHP is the best language</h2><br>';
+echo <<<'TAG'
+<h2 align="center">PHP is the best language</h2><br>
+TAG;
 
 phpinfo();
