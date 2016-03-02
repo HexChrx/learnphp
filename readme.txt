@@ -11,8 +11,8 @@ Git don't  tracks files.
 
 Created a new branch dev
 
-creating a new branch is qucik & simple.
+creating a new branch is quick & simple.
 
-learn the branchs mangage 
+learn the branch manage
 
-git is free sofeware
+git is free software
