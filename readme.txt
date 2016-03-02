@@ -10,3 +10,6 @@ Git has a mutable index called stage.
 Git don't  tracks files.
 
 Created a new branch dev
+
+Creating a new branch is quick and simple.
+
