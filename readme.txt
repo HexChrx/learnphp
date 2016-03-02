@@ -14,3 +14,5 @@ Created a new branch dev
 creating a new branch is qucik & simple.
 
 learn the branchs mangage 
+
+git is free sofeware
