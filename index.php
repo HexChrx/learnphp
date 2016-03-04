@@ -10,4 +10,7 @@ echo <<<'TAG'
 <h2 align="center">PHP is the best language</h2><br>
 TAG;
 
-phpinfo();
+echo <<<'TAG'
+    <h2 align="center">work in branch dev</h2><br>
+TAG;
+
