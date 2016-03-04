@@ -16,3 +16,6 @@ creating a new branch is quick & simple.
 learn the branch manage
 
 git is free software
+
+Learn git is very happy
+
